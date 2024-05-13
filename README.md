@@ -2,6 +2,13 @@
 
 2024-SNU-Rust-Application is the material(lecture notes, examples and assignments) repository for learning Rust programming language and making a simple cross-platform application at Seoul National University Club 'SCSC' and 'WaffleStudio' in 2024 Spring.
 
+# Environment
+- For MAC OS
+- Go to the "PATH" in terminal
+  - source $HOME/.cargo/env
+  - cargo new "project name"
+    - ex) cargo new snu_rust_application
+
 ## Contents
 
 - Week 0 (3/5) [[Lecture]](./1%20-%20Lecture/240305%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%200.pdf)
