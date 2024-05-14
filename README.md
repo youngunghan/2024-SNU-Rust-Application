@@ -5,9 +5,10 @@
 # Environment
 - For MAC OS
 - Go to the "PATH" in terminal
-  - source $HOME/.cargo/env
+  - source $HOME/.cargo/env <= must be executed first in order to run a "cargo"
   - cargo new "project name"
     - ex) cargo new snu_rust_application
+  - cargo run
 
 ## Contents
 
