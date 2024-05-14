@@ -10,6 +10,12 @@
     - ex) cargo new snu_rust_application
   - cargo run
 
+# How to execute the assignment?
+- git clone
+- source $HOME/.cargo/env
+- cargo test
+- when executing "cargo run", you have encountered an error stating “a bin target must be available for cargo run".
+
 ## Contents
 
 - Week 0 (3/5) [[Lecture]](./1%20-%20Lecture/240305%20-%20Rust%20Basic%20+%20Cross-Platform%20Application,%20Week%200.pdf)
